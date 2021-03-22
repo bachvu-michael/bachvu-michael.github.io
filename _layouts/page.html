@@ -8,6 +8,20 @@ layout: default
   </header>
 
   <div class="post-content">
+    {%- if page.iframe_url -%}
+      <iframe src="{{ page.iframe_url }}" frameborder="1" width="100%" height="400px"></iframe>
+    {%- endif -%}
+        {%- if page.projects.size > 0 -%}
+          <ul class="">
+            {%- for project in page.projects -%}
+            <li>
+                <a class="" href="{{ project.url | relative_url }}" target="_bland">
+                  {{ project.title | escape }}
+                </a>
+            </li>
+            {%- endfor -%}
+          </ul>
+        {%- endif -%}
     {{ content }}
   </div>
 
