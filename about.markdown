@@ -5,7 +5,7 @@ permalink: /about/
 ---
 **ReactJS, ReactNative, Typescript** the **`share`**
 
-My full name is **`Vu Minh Bach`**, I have been English name call **`Michael`**, because I had time to study abroad in Filipino and Foreigner couldn't read my name exactly. I graduated  from Viet Nam National Ho Chi Minh University, University of Information Technology - **`UIT`** and now I work at **Maysoft** company.
+My full name is **`Vu Minh Bach`**, I have been English name call **`Michael`**, because I had time to study abroad in Philippines and Foreigner couldn't read my name exactly. I graduated  from Viet Nam National Hochiminh University, University of Information Technology - **`UIT`** and now I work at **Maysoft** company.
 
 I'm focusing on Frontend and specific they are **ReactJS, ReactNative, Typescript** and related libraries. I work on React from Jan 2019. I like **activity environment** and don't be afraid to ask to learn more. I enjoy teamwork with all **ideas taken seriously**. 
 
